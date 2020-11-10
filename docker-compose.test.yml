@@ -9,4 +9,4 @@ sut:
                 links:
                         -redis
                 redis:
-                        image: redis
+                        image: redis 

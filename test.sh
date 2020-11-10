@@ -5,4 +5,4 @@ if curl web | grep -q '<b>Visits:</b> '; then
 else
 	echo "Tests failed!"
 	exit 1
-fi
+fi 
